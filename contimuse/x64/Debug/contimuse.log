@@ -1,3 +1,1 @@
-﻿  Waveform.cpp
-D:\Contimuse\contimuse\contimuse\src\Waveform.cpp(85,54): warning C4244: 'initializing': conversion from 'GLdouble' to 'size_t', possible loss of data
-  contimuse.vcxproj -> D:\Contimuse\contimuse\x64\Debug\contimuse.exe
+﻿  contimuse.vcxproj -> C:\Users\surpi\Desktop\contimuse\x64\Debug\contimuse.exe
